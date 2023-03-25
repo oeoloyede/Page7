@@ -1,0 +1,199 @@
+.root {
+  position: relative;
+  width: 393px;
+  height: 852px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.tabBar {
+  position: absolute;
+  left: 0;
+  right: 2.5445%;
+  top: 88.7324%;
+  bottom: 0;
+  align-items: flex-start;
+}
+.background {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  align-items: flex-start;
+}
+.background2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #fff;
+  box-shadow: 0px -0.5px 0px 0px #0000004d;
+  backdrop-filter: blur(13.591408729553223px);
+}
+.home {
+  position: absolute;
+  left: 2.9333%;
+  right: 86.4%;
+  top: 10.8434%;
+  bottom: 40.9639%;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.search {
+  position: absolute;
+  left: 21.8667%;
+  right: 67.4667%;
+  top: 10.8434%;
+  bottom: 40.9639%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.upload {
+  position: absolute;
+  left: 40.8%;
+  right: 40.5333%;
+  top: 10.8434%;
+  bottom: 40.9639%;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.chat {
+  position: absolute;
+  left: 67.7333%;
+  right: 21.6%;
+  top: 10.8434%;
+  bottom: 40.9639%;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.profile {
+  position: absolute;
+  left: 86.4%;
+  right: 2.9333%;
+  top: 10.8434%;
+  bottom: 40.9639%;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.shape {
+  position: absolute;
+  left: 32%;
+  right: 32%;
+  top: 84.3373%;
+  bottom: 9.6386%;
+  border-radius: 10px;
+  background-color: #000;
+}
+.rectangle23 {
+  position: absolute;
+  left: 2.2901%;
+  right: 2.5445%;
+  top: 13.615%;
+  bottom: 69.4836%;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle23.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tripsAndTricks {
+  color: #000;
+  font-size: 36px;
+  font-family: Comfortaa, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  text-decoration: underline;
+  position: absolute;
+  left: 7.888%;
+  right: 10.1781%;
+  top: 7.5117%;
+  bottom: 87.7934%;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle24 {
+  position: absolute;
+  left: 3.0534%;
+  right: 1.7812%;
+  top: 31.9249%;
+  bottom: 55.0469%;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle25 {
+  position: absolute;
+  left: 2.799%;
+  right: 2.0356%;
+  top: 47.1831%;
+  bottom: 40.7277%;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle25.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle26 {
+  position: absolute;
+  left: -12.2137%;
+  right: -13.2316%;
+  top: 61.5023%;
+  bottom: 22.5352%;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle26.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle27 {
+  position: absolute;
+  left: 2.799%;
+  right: 0;
+  top: 77.4648%;
+  bottom: 11.2676%;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle27.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.line5 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 100%;
+  right: -23.6641%;
+  top: 31.338%;
+  bottom: 68.5446%;
+  max-width: 100%;
+  max-height: 100%;
+  border-bottom: solid 1px #000;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.upload2 {
+  position: absolute;
+  left: 40.7125%;
+  right: 40.6684%;
+  top: 90.2582%;
+  bottom: 4.651%;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
